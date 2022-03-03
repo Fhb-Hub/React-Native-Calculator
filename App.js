@@ -1,5 +1,5 @@
-import React, { Component } from 'react'
-import { View, StyleSheet } from 'react-native'
+import React, { Component } from 'react';
+import { View, StyleSheet } from 'react-native';
 import Button from './src/components/Button';
 import Display from './src/components/Display';
 
